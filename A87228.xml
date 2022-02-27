@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eighteen questions propounded, to put the great question between the Army and their dissenting brethren, out of question, (viz.) whether the best way to secure the government of these nations, in the way of a free-state, without a single person, King, or House of Lords; together with our liberties, as men and Christians; be either to chuse a new and free Parliament, or else to restore the last Long Parliament. Published by Jer. Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87228</idno>
+            <idno type="STC">Wing I1098</idno>
+            <idno type="STC">Thomason E1010_12</idno>
+            <idno type="STC">ESTC R202609</idno>
+            <idno type="EEBO-CITATION">99862837</idno>
+            <idno type="PROQUEST">99862837</idno>
+            <idno type="VID">168745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168745)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1010[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eighteen questions propounded, to put the great question between the Army and their dissenting brethren, out of question, (viz.) whether the best way to secure the government of these nations, in the way of a free-state, without a single person, King, or House of Lords; together with our liberties, as men and Christians; be either to chuse a new and free Parliament, or else to restore the last Long Parliament. Published by Jer. Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G.D. for Francis Smith, and are to be sold at his shop, at the Elephant and Castle near Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168745:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 66 -->
+            <p>Eighteen QUESTIONS PROPOUNDED, TO Put the great QUESTION between the ARMY and their diſſenting BRE<g ref="char:EOLhyphen"/>THREN, out of Queſtion, <hi>(Viz.)</hi>
+            </p>
+            <p>Whether the beſt way to ſecure the GOVERNMENT of theſe Nations, in the way of a FREE-STATE, without a Single Perſon, King, or Houſe of Lords; Toge<g ref="char:EOLhyphen"/>ther with our Liberties, as Men and Chri<g ref="char:EOLhyphen"/>ſtians; Be either to Chuſe a New and Free PARLIAMENT, or elſe to Reſtore the laſt Long PARLIAMENT.</p>
+            <p>Publiſhed by <hi>JER<g ref="char:punc">▪</g> IVES.</hi>
+            </p>
+            <p>
+               <date>
+                  <add>9ber 21</add>
+               </date>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. D.</hi> for <hi>Francis Smith,</hi> and are to be ſold at his Shop, at the <hi>Elephant</hi> and <hi>Caſtle</hi> near <hi>Temple-Bar,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168745:2"/>
+            <!-- PDF PAGE 67 -->
+            <pb n="1" facs="tcp:168745:2"/>
+            <!-- PDF PAGE 67 -->
+            <head>EIGHTEEN QUESTIONS PROPOUNDED, TO Put the great <hi>Queſtion</hi> between the <hi>Army</hi> and their diſſenting <hi>Brethren,</hi> out of <hi>Queſtion,</hi> &amp;c.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T cannot but affect the hearts of all thoſe that are Lovers of Civil and Religious Liberties, to ſee the great Aſſertors thereof fall out among themſelves, ſome pre<g ref="char:EOLhyphen"/>tending, that we cannot ſecure our Rights, either as Men or Chriſtians, but by a free and new Elected</hi> Parliament, <hi>and for this they are ready to Engage unto Blood; Others they think, that
+<pb n="2" facs="tcp:168745:3"/>
+                  <!-- PDF PAGE 68 -->the laſt long</hi> Parliament, <hi>are the only Free Repre<g ref="char:EOLhyphen"/>ſentatives of the People, and that no Force can diſ<g ref="char:EOLhyphen"/>ſolve them, till they diſſolve themſelves, and for the reſtoring them to the exerciſe of the Supream Autho<g ref="char:EOLhyphen"/>rity over theſe Nations, they are ready to Engage the Nation in another War. For the ſatisfying thoſe that diſſent by reaſon of the fore-mentioned Perſwa<g ref="char:EOLhyphen"/>ſions, I ſhall offer theſe enſuing</hi> Queſtions.</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> I.</label>
+               <lb/>
+1. Whether a Free Parliament, ought not by the Laws and Cuſtomes of this Nation, to be choſen by the general conſent of the People?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> II.</label>
+               <lb/>
+2. Whether a Parliament ſo choſen, ought not to do what they think beſt for the Weale of the Nation that ſo choſeth them, without the Interruption of a<g ref="char:EOLhyphen"/>ny party, upon any pretence whatſoever?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> III.</label>
+               <lb/>
+3. If any ſhall ſay, a Free Parliament ought not to be ſo Elected, and ſo Impowered; I demand then, How they are a Free Parliament, in the ſenſe that the People of this Nation, according to Law and Cuſtom, do underſtand a Free Parliament?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> IV.</label>
+               <lb/>
+4. If it ſhall be Anſwered in the Affirmative, that a Free Parliament ought to be ſo choſen, and ſo im<g ref="char:EOLhyphen"/>powered as aforeſaid; I demand, (as the Nation is now influenced by <hi>Prieſts, Lawyers,</hi> and <hi>Cavileirs</hi>)
+<pb n="3" facs="tcp:168745:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 68 -->How the ends of the good People can be anſwered, by a Parliament ſo Elected and Impowered?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> V.</label>
+               <lb/>
+5. If ever any Parliament could have anſwered the ends of the good People of this Nation; I demand whether the laſt long Parliament were not once the moſt likely of any that went before them, or of any that in reaſon can be expected to ſucceed them?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> VI.</label>
+               <lb/>
+6. Notwithſtanding the great hopes we had of them, conſidering the good beginnings they made, and the fair opportunities the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had, to perfect what they had begun; I demand whether the moſt con<g ref="char:EOLhyphen"/>ſiderable of the good things they did, <hi>(viz.)</hi> the ta<g ref="char:EOLhyphen"/>king away King-ſhip, and Peerage, and declaring this Nation a Free-ſtate, &amp;c. were not rather the fruits and effects of that force, which was put upon them when the Army garbled them, then the Votes and Reſults of a Free Parliament?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> VII.</label>
+               <lb/>
+7. Whether that Parliament did not Act higheſt a<g ref="char:EOLhyphen"/>gainſt the intereſt of the good people of this Nation, when there was no force at all upon them?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> VIII.</label>
+               <lb/>
+8. Whether there was not a time when the Army and divers others<note n="*" place="margin">Col. <hi>Rainsbo<g ref="char:EOLhyphen"/>rough.</hi> Lieut. Col. <hi>Jo. Lylburn.</hi> Capt, <hi>Bray.</hi> Cornet <hi>Ioyce.</hi> Cornet <hi>Thom<g ref="char:EOLhyphen"/>ſon.</hi> Mr. <hi>Rich. O<g ref="char:EOLhyphen"/>verton.</hi> Mr. <hi>Will. Wal<g ref="char:EOLhyphen"/>win, Tho. Prince.</hi> &amp;c.</note> were accounted the great Aſſer<g ref="char:EOLhyphen"/>tors of their Countries Liberties, when they refuſed to comply with the Votes of the then Free and Un<g ref="char:EOLhyphen"/>interupted Parliament?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> IX.</label>
+               <lb/>
+9. Whether there was not as much of the hearts and Spirits of all people concurring to their Inte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ption in 1653. as ever was to their Election.</p>
+            <p>
+               <pb n="4" facs="tcp:168745:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 69 -->
+               <label>
+                  <hi>Queſt.</hi> X.</label>
+               <lb/>
+10. Whether thoſe men that laſt Sate, were not rather admitted to ſerve the preſent Exigency (as the beſt expedient that then could be thought on) ra<g ref="char:EOLhyphen"/>ther than out of conſciouſneſs to their Juſt Authority as a Free Parliament?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XI.</label>
+               <lb/>
+11. Whether there did not remain a force upon them all the time of their laſt Seſſion, in as much as the greateſt part of their Members were Secluded?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XII.</label>
+               <lb/>
+12. If all Force, Fetters and Shekles had been taken off, and they had injoyed the free and accuſtomed power and priviledges of the Parliament of <hi>England;</hi> I demand, if ever Sir. <hi>George Booth,</hi> and Major Ge<g ref="char:EOLhyphen"/>neral <hi>Browne,</hi> &amp;c. had been Voted Traytors?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XIII.</label>
+               <lb/>
+13. And whereas it is objected, that by an Act made by King, Lords, and Commons, that 40. of them ſhould make a <hi>Corum,</hi> and that they ſhould not be diſſolved till they diſſolve themſelves, and there<g ref="char:EOLhyphen"/>fore there being yet a <hi>Corum,</hi> they are therefore a Free Parliament; I demand, whether by this Argu<g ref="char:EOLhyphen"/>ment, thoſe which the Army ſecluded when they came from <hi>Hounſloe Heath,</hi> may not as well call themſelves a Parliament, ſeeing they were a <hi>Corum,</hi> and kept their places in the Houſe when the reſt went away to the Army, &amp; were as truly forced out then, as theſe were afterward; &amp; whether this very Argument would not make them a Parliament, if another intereſt ſhould pre<g ref="char:EOLhyphen"/>vail to take off that interruption. Again, the intent of that Act was not, that any 40. whom, the Sword ſhould ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erate from the reſt ſhould make a <hi>Corum,</hi> but
+<pb n="5" facs="tcp:168745:4"/>
+               <!-- PDF PAGE 69 -->rather if by degrees ſome ſhould die, and others by the conſent of the Major part ſhould be voted out, as being uncapable to Sit, or that others ſhould be abſent by rea<g ref="char:EOLhyphen"/>ſon of any Emergencies, that then and in ſuch caſes 40 ſhould make a <hi>Corum,</hi> and this is the reaſon why a fixed number are appointed a <hi>Corum</hi> in all State Conven<g ref="char:EOLhyphen"/>tions; therefore it remains, that the laſt Parliament were rather choſen and elected by the Army in the capacity they ſtood ſince they were firſt garbled, then the peoples free Repreſentatives, becauſe the Army might have elected that number they forced out, as well as thoſe they kept in, unto whom they might have ſubſcribed obedience?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XIV.</label>
+               <lb/>
+14. I demand then, how any can cry <hi>Hoſanna,</hi> to the laſt Aſſembly, as to a juſt and free Parliamentory Authority, and endeavour to reſtore them to the exer<g ref="char:EOLhyphen"/>ciſe thereof, upon that foot of account, unleſs they al<g ref="char:EOLhyphen"/>ſo endeavour to take off the firſt as well as the laſt interruptions, which how ſafe that will be I leave o<g ref="char:EOLhyphen"/>thers to Judge?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XV.</label>
+               <lb/>
+15. If we ſhould aſſay to reſtore them upon a pruden<g ref="char:EOLhyphen"/>tial account; then I Query, what reaſon there is to be<g ref="char:EOLhyphen"/>leeve ſuch a thing will be effected unleſs they will re<g ref="char:EOLhyphen"/>ſeed from their own Votes, or the Army ſubject unto them; which how they can do with ſafety to them<g ref="char:EOLhyphen"/>ſelves, or the good people of this Land, I leave o<g ref="char:EOLhyphen"/>thers to Judge?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XVI.</label>
+               <lb/>
+16. If it ſhould be effected, and that they ſhould come to the Exeriſe of their Authority; I demand what reaſon there is to beleeve they will anſwer the ends of the good People of this Land?</p>
+            <p>
+               <pb n="6" facs="tcp:168745:5"/>
+               <!-- PDF PAGE 70 -->
+               <label>
+                  <hi>Queſt.</hi> XVII.</label>
+               <lb/>
+17. If their reſtoring cannot in reaſon be thought practicable, and if practicable, not profitable; why ſhould we labour in the fire of contention to effect it?</p>
+            <p>
+               <label>
+                  <hi>Queſt.</hi> XVIII.</label>
+               <lb/>
+18. If then this cannot be a free Parliament, upon their readmiſſion, conſidering the force that remained upon them, and that moſt of the eminent good things they did were by force ſquezed from them, and there<g ref="char:EOLhyphen"/>fore in law cannot be the free Repreſentives of the People of <hi>England;</hi> I demand, whether ſome other number of honeſt men choſen out to ſerve the preſent Exigency, may not be as lawfulll an Authority as they, and ſooner anſwer the deſire of all good Peo<g ref="char:EOLhyphen"/>ple?</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
